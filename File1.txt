@@ -2,3 +2,11 @@ Jenkins is an open-source automation tool written in Java with plugins built for
 Jenkins achieves Continuous Integration with the help of plugins.
 Plugins allow the integration of Various DevOps stages.
 Jenkins integrates development life-cycle processes of all kinds, including build, document, test, package, stage, deploy, static analysis, and much more.
+Git Commands : 
+$ git init		---> Initialize Locl Git Repository
+$ git add<file>	---> Add file(s) to index
+$ git status 	---> Check Status of working tree
+$ git commit	---> Commit changes in index
+$ git push 		---> Push(Moving) to Remote Repository 
+$ git pull 		---> Pull(Update) latest from Remote Repository 
+$ git clone 	---> Clone(Merging) Repository into a new directory
