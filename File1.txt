@@ -1,0 +1,4 @@
+Jenkins is an open-source automation tool written in Java with plugins built for Continuous Integration purposes.
+Jenkins achieves Continuous Integration with the help of plugins.
+Plugins allow the integration of Various DevOps stages.
+Jenkins integrates development life-cycle processes of all kinds, including build, document, test, package, stage, deploy, static analysis, and much more.
